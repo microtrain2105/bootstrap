@@ -34,6 +34,7 @@ git init
 git add .
 git commit -am 'LAB - Personal Website'
 git remote add origin git@github.com:XXX/bootstrap.git
+git branch -M main
 git push -u origin main
 ```
 
